@@ -1,0 +1,15 @@
+# GET http://localhost:5000/contacts
+
+
+POST http://localhost:5000/contacts
+Content-type: application/json
+
+{
+    "name": "Endrit",
+    "lastName": "Hashani",
+    "address": "Rr.Skenderbeu",
+    "city": "Kamenice",
+    "country": "Kosovo",
+    "email": "endrithashani404@gmail.com",
+    "number": "049879903"
+}
