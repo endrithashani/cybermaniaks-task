@@ -30,7 +30,7 @@ const ContactList = () => {
               Add Contacts
             </Link>
       </div>
-      <div className="column mt-5 ">
+      <div className="column mt-5 is-fluid">
         <table className="table is-bordered is-striped is-narrow is-hoverable">
             <thead>
                 <tr>
